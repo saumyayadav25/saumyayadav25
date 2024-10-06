@@ -19,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saumyayadav25&show_icons=true&locale=en" alt="saumyayadav25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saumyayadav25&" alt="saumyayadav25" /></p>
+
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=saumyayadav&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/saumyayadav)
