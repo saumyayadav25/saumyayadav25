@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saumya Yadav</h1>
+<p align="center">
+B.Tech CSE (AI) • 2027 Batch • Looking for Summer 2026 Tech Internships  
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyayadav25&label=Profile%20views&color=0e75b6&style=flat" alt="saumyayadav25" /> </p>
 
 <p align="left"> <a href="https://twitter.com/saumyayadav817" target="blank"><img src="https://img.shields.io/twitter/follow/saumyayadav817?logo=twitter&style=for-the-badge" alt="saumyayadav817" /></a> </p>
-
-- 🌱 I’m currently learning **DSA and Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
